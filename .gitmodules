@@ -1,0 +1,3 @@
+[submodule "libs/tinyrenderer"]
+	path = libs/tinyrenderer
+	url = https://github.com/wonjongbot/tinyrenderer.git
